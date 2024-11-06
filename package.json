@@ -7,7 +7,6 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "servor --reload",
     "test": "jest"
   },
   "keywords": [],
