@@ -23,3 +23,9 @@ document.getElementById("bookingForm").addEventListener("submit", function(event
             "Please fill in all fields correctly.";
     }
 });
+
+module.exports = {
+    message, destination, seats, pricePerSeat, totalFare
+}
+
+
